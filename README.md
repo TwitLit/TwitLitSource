@@ -13,4 +13,4 @@ Similarly, to install the other mentioned packages, replace `twarc` with the pac
 
 ### Author
 Christian F. Howard-Sukhil, Ph.D.  
-DH PostDoc at Bucknell University
+Digital Humanities Postdoctoral Fellow, Bucknell University
