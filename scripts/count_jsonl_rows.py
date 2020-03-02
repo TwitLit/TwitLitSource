@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import sys
 import json_lines
@@ -14,7 +14,7 @@ if __name__ == '__main__':
             for item in json_lines.reader(file):
                 count = count + 1
 
-        print "number of rows in file: " + str(count)
+        print('number of rows in file: {}').format(count)
         file.close()
 
     except:
