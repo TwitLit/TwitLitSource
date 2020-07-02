@@ -11,6 +11,9 @@ user@computer: sudo pip3 install twarc
 
 Similarly, to install the other mentioned packages, replace `twarc` with the package name in the command above.
 
+### Instructions
+You can find detailed instructions for running and using the various python scripts on the Project TwitLit website under "Documentation." Please visit: [www.twit-lit.com](https://twitlit.github.io/).
+
 ### Author
 Christian F. Howard-Sukhil, Ph.D.  
 Digital Humanities Postdoctoral Fellow, Bucknell University
