@@ -19,6 +19,11 @@ from bs4 import BeautifulSoup
 
 __author__ = 'Tom Dickinson'
 
+"""
+Special notes:
+This script was modified by Shane Lin, Christian Howard-Sukhil, and Alyssa Collins in 2017. For more information about the development of this script, visit: https://twitlit.github.io/aboutscripts.html
+"""
+
 
 class TwitterSearch(object):
 
